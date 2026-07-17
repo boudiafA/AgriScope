@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use AgriScope in your research, please cite the accompanying paper."
+title: "AgriScope: Pixel-Grounded Multimodal Understanding for Agriculture Images"
+type: software
+authors:
+  - family-names: Boudiaf
+    given-names: Abderrahmene
+  - family-names: Alanssari
+    given-names: Mohamad
+  - family-names: Hussain
+    given-names: Irfan
+  - family-names: Javed
+    given-names: Sajid
+repository-code: "https://github.com/boudiafA/AgriScope"
+url: "https://github.com/boudiafA/AgriScope"
+license: Apache-2.0
+date-released: 2026-07-17
+abstract: >-
+  AgriScope is a unified pixel-grounded multimodal framework for image-level,
+  region-level, and pixel-level understanding of agricultural imagery.
