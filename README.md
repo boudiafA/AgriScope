@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Paper-Coming%20soon-lightgrey" alt="Paper coming soon">
   <img src="https://img.shields.io/badge/Dataset-Coming%20soon-lightgrey" alt="Dataset coming soon">
-  <img src="https://img.shields.io/badge/Model-Coming%20soon-lightgrey" alt="Model coming soon">
+  <a href="https://huggingface.co/boudiafA/AgriScope"><img src="https://img.shields.io/badge/Model%20weights-Coming%20soon-lightgrey" alt="Model weights coming soon on Hugging Face"></a>
   <img src="https://img.shields.io/badge/Code-Coming%20soon-lightgrey" alt="Code coming soon">
 </p>
 
@@ -184,6 +184,8 @@ Full evaluation tables, experimental settings, and cross-dataset results will ac
 ---
 
 ## Installation and Inference
+
+Model weights will be released on [Hugging Face](https://huggingface.co/boudiafA/AgriScope) (**coming soon**).
 
 Training and inference code is **coming soon**. The public release will include:
 
