@@ -116,7 +116,7 @@ AgriGround covers four complementary task families:
 | Conversation and QA | Region-level conversation, multi-turn grounded conversation, classification QA, negative absence QA |
 
 <p align="center">
-  <img src="images/task_examples_v3.png" alt="Task-specific AgriGround examples" width="62%">
+  <img src="images/task_examples_v3.png" alt="Task-specific AgriGround examples" width="82%">
 </p>
 
 Detailed task definitions and sample counts are available in [docs/TASKS.md](docs/TASKS.md).
