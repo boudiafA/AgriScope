@@ -11,17 +11,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Paper-Coming%20soon-lightgrey" alt="Paper coming soon">
-  <img src="https://img.shields.io/badge/Dataset-Coming%20soon-lightgrey" alt="Dataset coming soon">
+  <a href="https://huggingface.co/boudiafA/AgriScope/tree/main/annotations"><img src="https://img.shields.io/badge/AgriGround%20dataset-Available-success" alt="AgriGround dataset available on Hugging Face"></a>
   <a href="https://huggingface.co/boudiafA/AgriScope"><img src="https://img.shields.io/badge/Model%20weights-Coming%20soon-lightgrey" alt="Model weights coming soon on Hugging Face"></a>
   <img src="https://img.shields.io/badge/Code-Coming%20soon-lightgrey" alt="Code coming soon">
 </p>
 
-> This repository is being prepared for public release. The manuscript figures and project documentation are available now; the paper, code, AgriGround annotations, and model weights will be released separately.
+> AgriGround train/test annotations are available on [Hugging Face](https://huggingface.co/boudiafA/AgriScope/tree/main/annotations). The manuscript figures and project documentation are available here; the paper, model code, and model weights are coming soon.
 
 ---
 
 ## Latest Updates
 
+- **[2026-08-05]** Released the 14-task AgriGround train/test annotations on [Hugging Face](https://huggingface.co/boudiafA/AgriScope/tree/main/annotations), including file-level checksums, task counts, and a full validation report.
 - **[2026-07-17]** Initial AgriScope repository and project documentation released.
 
 ---
@@ -125,12 +126,13 @@ Detailed task definitions and sample counts are available in [docs/TASKS.md](doc
 
 | Resource | Status |
 |---|---|
-| Train/test annotations | **Coming soon** |
+| Train/test annotations | **[Available on Hugging Face](https://huggingface.co/boudiafA/AgriScope/tree/main/annotations)** |
+| Annotation manifest and validation | **[Available on Hugging Face](https://huggingface.co/boudiafA/AgriScope/tree/main/annotations)** |
 | Source dataset preparation guide | **Coming soon** |
 | Annotation pipeline | **Coming soon** |
-| Dataset license and terms | **Coming soon** |
+| Dataset details and source-image terms | **[See the Hugging Face dataset card](https://huggingface.co/boudiafA/AgriScope/blob/main/annotations/README.md)** |
 
-The source agricultural images are not currently distributed through this repository. Their original licenses and terms remain applicable.
+The annotation package is hosted on Hugging Face. Source agricultural images are not redistributed; their original licenses and terms remain applicable.
 
 ---
 
@@ -215,7 +217,7 @@ The paper link and final citation will be added upon release. Until then, please
 
 ## License
 
-The repository documentation and future code release are provided under the [Apache License 2.0](LICENSE). Dataset annotations and source images may be subject to separate terms, which will be documented with the dataset release.
+The repository documentation and code are provided under the [Apache License 2.0](LICENSE). AgriGround annotations are available on [Hugging Face](https://huggingface.co/boudiafA/AgriScope/tree/main/annotations). Source images are not redistributed and remain subject to their original dataset licenses and terms.
 
 ## Acknowledgments
 
